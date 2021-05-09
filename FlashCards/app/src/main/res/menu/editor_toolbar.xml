@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/actionNextError"
+        android:icon="@drawable/ic_error_red_24dp"
+        app:showAsAction="ifRoom"
+        android:title="Go to error">
+    </item>
+    <item
+        android:id="@+id/actionSaveDeck"
+        android:icon="@drawable/ic_save_white_24dp"
+        app:showAsAction="ifRoom"
+        android:title="Save">
+    </item>
+</menu>

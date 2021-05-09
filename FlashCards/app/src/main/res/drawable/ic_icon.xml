@@ -1,0 +1,28 @@
+<vector android:height="24dp" android:viewportHeight="100"
+    android:viewportWidth="100" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillAlpha="1" android:fillColor="#cb511f"
+        android:fillType="nonZero"
+        android:pathData="M15,10L85,10A5,5 0,0 1,90 15L90,85A5,5 0,0 1,85 90L15,90A5,5 0,0 1,10 85L10,15A5,5 0,0 1,15 10z"
+        android:strokeAlpha="1" android:strokeColor="#00000000"
+        android:strokeLineCap="butt" android:strokeLineJoin="miter" android:strokeWidth="3.77952766"/>
+    <path android:fillAlpha="0.39215687" android:fillColor="#ffffff"
+        android:fillType="nonZero"
+        android:pathData="m15,10c-2.77,0 -5,2.23 -5,5v0.5c0,-2.77 2.23,-5 5,-5h70c2.77,0 5,2.23 5,5V15c0,-2.77 -2.23,-5 -5,-5z"
+        android:strokeAlpha="1" android:strokeColor="#00000000"
+        android:strokeLineCap="butt" android:strokeLineJoin="miter" android:strokeWidth="3.77952766"/>
+    <path android:fillAlpha="0.39215687" android:fillColor="#000000"
+        android:fillType="nonZero"
+        android:pathData="m85,90c2.77,0 5,-2.23 5,-5v-0.5c0,2.77 -2.23,5 -5,5H15c-2.77,0 -5,-2.23 -5,-5V85c0,2.77 2.23,5 5,5z"
+        android:strokeAlpha="1" android:strokeColor="#00000000"
+        android:strokeLineCap="butt" android:strokeLineJoin="miter" android:strokeWidth="3.77952766"/>
+    <path android:fillAlpha="1" android:fillColor="#f5ffff"
+        android:fillType="evenOdd"
+        android:pathData="M58.303,39.441A10,10 0,0 1,60 45A10,10 0,0 1,50 55A10,10 0,0 1,40 45A10,10 0,0 1,41.691 39.443C33.403,40.842 25.641,44.359 20,50C35,65 65,65 80,50C74.358,44.358 66.593,40.839 58.303,39.441z"
+        android:strokeAlpha="1" android:strokeColor="#00000000"
+        android:strokeLineCap="butt" android:strokeLineJoin="miter" android:strokeWidth="1"/>
+    <path android:fillAlpha="1" android:fillColor="#451b0a"
+        android:fillType="evenOdd"
+        android:pathData="m50,38.75c-2.789,0 -5.577,0.233 -8.309,0.693A10,10 0,0 0,40 45,10 10,0 0,0 50,55 10,10 0,0 0,60 45,10 10,0 0,0 58.303,39.441C55.573,38.981 52.787,38.75 50,38.75Z"
+        android:strokeAlpha="1" android:strokeColor="#00000000"
+        android:strokeLineCap="butt" android:strokeLineJoin="miter" android:strokeWidth="1"/>
+</vector>
